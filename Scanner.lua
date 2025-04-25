@@ -170,4 +170,3 @@ end
 
 rangeLimits = BoundaryLimits.new(boundingBoxLow, boundingBoxHigh, scanRange)
 ll.SetText("Avi Scan Reporter SLua Class 3\nScan Area: " .. tostring(rangeLimits), vector(1,1,0), 1.0)
-
